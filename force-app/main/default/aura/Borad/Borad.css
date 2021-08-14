@@ -1,0 +1,9 @@
+.THIS.board {
+    background-color: white;
+    position: relative;
+}
+
+.THIS .win-world {
+    text-transform: uppercase;
+    font-weight: bold;
+}
